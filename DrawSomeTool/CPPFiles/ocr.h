@@ -1,10 +1,3 @@
-//
-//  ocr.h
-//  DrawSomeTool
-//
-//  Created by 一和 朱 on 12-3-30.
-//  Copyright (c) 2012年 SJTU. All rights reserved.
-//
 
 #ifndef DrawSomeTool_ocr_h
 #define DrawSomeTool_ocr_h

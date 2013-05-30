@@ -1,10 +1,3 @@
-//
-//  ocr.cpp
-//  DrawSomeTool
-//
-//  Created by 一和 朱 on 12-3-30.
-//  Copyright (c) 2012年 SJTU. All rights reserved.
-//
 
 #include <iostream>
 #include "ocr.h"

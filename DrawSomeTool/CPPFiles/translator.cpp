@@ -1,10 +1,4 @@
-//
-//  translator.cpp
-//  contest
-//
-//  Created by 一和 朱 on 12-4-2.
-//  Copyright (c) 2012年 SJTU. All rights reserved.
-//
+
 
 #include "translator.h"
 
